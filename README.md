@@ -20,11 +20,11 @@ El usuario selecciona una opción del menú, ingresa los valores requeridos (com
 ## Instrucciones de Uso
 
 1. **Ejecución del Código**
-   - Copia el código en un archivo llamado `CalculoAreas.kt`.
+   - Copia el código en un archivo llamado `calculo.kt`.
    - Compila y ejecuta el archivo desde la terminal con los siguientes comandos:
      ```bash
-     kotlinc CalculoAreas.kt -include-runtime -d CalculoAreas.jar
-     java -jar CalculoAreas.jar
+     kotlinc calculo.kt -include-runtime -d calculo.jar
+     java -jar calculo.jar
      ```
 
 2. **Uso del Menú**
